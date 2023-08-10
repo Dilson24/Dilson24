@@ -1,8 +1,8 @@
 # 👋🏻 ¡Hola!, mi nombre es Dilson
-## ⚡ About Me:
+## ⚡ Sobre mí:
 👨🏻‍💻 Soy un tecnólogo en análisis y desarrollo de sistemas de<br>información (ADSI), con experiencia en la creación de soluciones tecnológicas eficientes.<br>🤓Me apasiona el desarrollo web y todas las áreas que involucra, lo cual me motiva constantemente a seguir aprendiendo para mejorar mis habilidades en este campo.<br>🤖Uno de los lenguajes que más me llama la atención es JavaScript, <br>su versatilidad para trabajar tanto del lado del cliente como del servidor me parecen fascinantes.<br>📬Ponte en contacto conmigo a través de correo electrónico o agregame en LinkedIn😄.
 
-## ⚡ Sobre mí:
+## ⚡ About Me:
 👨🏻‍💻I am a technologist in analysis and development of information systems<br>(ADSI), with experience in creating efficient technological solutions.<br>🤓I am passionate about web development and all the areas it involves, which constantly motivates me to keep learning to improve my skills in this field.<br>🤖One of the languages that most attracts my attention is JavaScript,<br> its versatility to work both client-side and server-side seems fascinating to me.📬Shoot me an Email or add me on LinkedIn😄.
 
 
