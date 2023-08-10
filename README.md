@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ![HandGif]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif)) Sobre Mí:
 👨‍💻 Soy un tecnólogo en análisis y desarrollo de sistemas de<br>información (ADSI), con experiencia en la creación de soluciones tecnológicas eficientes.<br>🤓Me apasiona el desarrollo web y todas las áreas que involucra, lo cual me motiva constantemente a seguir aprendiendo para mejorar mis habilidades en este campo.<br>🤖Uno de los lenguajes que más me llama la atención es JavaScript, <br>su versatilidad para trabajar tanto del lado del cliente como del servidor me parecen fascinantes.<br>📬Ponte en contacto conmigo a través de correo electrónico o agregame en LinkedIn.
 
 
