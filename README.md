@@ -18,10 +18,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dilson24&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilson24&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dilson24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ - [Project Access Control]
+ - [Project Memorize Game]
+ - [Project Page Vererinary]
+ - [Project Learn Ease]
+ - [Project API Pokemon] 
+ - [Project Hanging Game]
+ - [Project Dark Red Theme] 
+ 
+ [Project Access Control]: <https://github.com/Dilson24/Project-Access-Control)>
+ [Project Memorize Game]: <https://github.com/Dilson24/Project-Memorize-Game)>
+ [Project Page Vererinary]: <https://github.com/Dilson24/Project_Page_Vererinary)>
+ [Project Learn Ease]: <https://github.com/Dilson24/Project-Learn-Ease)>
+ [Project API Pokemon]: <https://github.com/Dilson24/Project_API_Pokemon)>
+ [Project Hanging Game]: <https://github.com/Dilson24/Hanging-Game)>
+ [Project Dark Red Theme]: <https://github.com/Dilson24/Dark-Red-Theme>
 
----
+---------
+## ✍🏻"*Si puedes imaginarlo puedes programarlo*" <img align="left" width="400" height="200" src="https://media.giphy.com/media/6r7TXx0ZHCs4KC7A7X/giphy.gif">
+#### <p align="right"> -Alejandro Taboada</p>
